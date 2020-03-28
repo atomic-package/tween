@@ -23,7 +23,7 @@ JavaScriptで利用する方法となります。
 
 こちらのJavaScriptを読み込むと、global objectに 自動で紐付きます。
 
-cocone.common.tweenが対象となります。
+AP.common.tweenが対象となります。
 
 ```
 AP: {
